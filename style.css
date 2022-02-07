@@ -29,7 +29,7 @@ html,body {
 }
 
 body {
-	font-family: "ヒラギノ丸ゴ Pro", "Hiragino Maru Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;	/*フォント種類*/
+	font-family: "ヒラギノ明朝 Pro W6", "Hiragino Mincho Pro W6", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;	/*フォント種類*/
 	-webkit-text-size-adjust: none;
 	background: #9f0c0c;	/*背景色*/
 	color: #E5E5E5;	/*全体の文字色*/
