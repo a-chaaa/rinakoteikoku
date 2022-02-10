@@ -29,11 +29,15 @@ html,body {
 }
 
 body {
-	font-family: "ヒラギノ明朝 Pro W6", "Hiragino Mincho Pro W6", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;	/*フォント種類*/
+	font-family: "クレー";	/*フォント種類*/
 	-webkit-text-size-adjust: none;
-	background: #9f0c0c;	/*背景色*/
+	background: #6a171f;	/*背景色*/
 	color: #E5E5E5;	/*全体の文字色*/
 	line-height: 2;		/*行間*/
+}
+
+.text{
+	text-align:center;
 }
 
 /*マージンのリセット*/
@@ -371,7 +375,7 @@ ul.icon img:hover {
 /*料理写真*/
 .list2 figure img {
 	padding: 10px;		/*写真の周りに少し余白を作って、より写真っぽく見せる*/
-	background: #fff;	/*上の10pxとの間に出る色*/
+	background: white;	/*上の10pxとの間に出る色*/
 	box-shadow: 0px 0px 50px 10px rgba(255,255,255,0.4);	/*ボックスの影。右へ、下へ、ぼかし幅、範囲。255,255,255は白の事で0.4は色が40%出た状態の事。*/
 	transform: rotate(-2deg);	/*左に少しだけ回転させる指定。回転させたくなければこの１行と、下の「.list2:nth-of-type(even) img」のブロックを削除。*/
 }
