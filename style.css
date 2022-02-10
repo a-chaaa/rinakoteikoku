@@ -171,12 +171,12 @@ main p {
 	width: 50px;	/*幅*/
 	height: 50px;	/*高さ*/
 	cursor: pointer;
-	background: rgba(0,0,0,0.6) url(../https://a-chaaa.github.io/rinakoteikoku/icon_menu.png) no-repeat center top/50px;	/*背景色、背景画像の読み込み、画像の上半分（３本マーク）を表示。幅は50px。*/
+	background: rgba(0,0,0,0.6) url(https://a-chaaa.github.io/rinakoteikoku/icon_menu.png) no-repeat center top/50px;	/*背景色、背景画像の読み込み、画像の上半分（３本マーク）を表示。幅は50px。*/
 }
 
 /*×印が出ている状態の設定。*/
 #menubar_hdr.close {
-	background: #ff0000 url(../https://a-chaaa.github.io/rinakoteikoku/icon_menu.png) no-repeat center bottom/50px;	/*背景色、背景画像の読み込み、画像の下半分（×マーク）を表示。幅は50px。*/
+	background: #ff0000 url(https://a-chaaa.github.io/rinakoteikoku/icon_menu.png) no-repeat center bottom/50px;	/*背景色、背景画像の読み込み、画像の下半分（×マーク）を表示。幅は50px。*/
 }
 
 /*メニューの設定
