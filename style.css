@@ -29,7 +29,7 @@ html,body {
 }
 
 body {
-	font-family: "クレー";	/*フォント種類*/
+	font-family: "ヒラギノ明朝 Pro";	/*フォント種類*/
 	-webkit-text-size-adjust: none;
 	background: #6a171f;	/*背景色*/
 	color: #E5E5E5;	/*全体の文字色*/
