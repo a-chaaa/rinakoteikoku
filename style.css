@@ -176,7 +176,7 @@ main p {
 
 /*×印が出ている状態の設定。*/
 #menubar_hdr.close {
-	background: #ff0000 url(https://a-chaaa.github.io/rinakoteikoku/icon_menu.png) no-repeat center bottom/50px;	/*背景色、背景画像の読み込み、画像の下半分（×マーク）を表示。幅は50px。*/
+	background: #762c3e url(https://a-chaaa.github.io/rinakoteikoku/icon_menu.png) no-repeat center bottom/50px;	/*背景色、背景画像の読み込み、画像の下半分（×マーク）を表示。幅は50px。*/
 }
 
 /*メニューの設定
