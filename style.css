@@ -36,6 +36,15 @@ body {
 	line-height: 2;		/*行間*/
 }
 
+/*▼よくわからん*/
+iframe{
+	font-family: "ヒラギノ明朝 Pro";	/*フォント種類*/
+	-webkit-text-size-adjust: none;
+	background: #6a171f;	/*背景色*/
+	color: #E5E5E5;	/*全体の文字色*/
+	line-height: 2;		/*行間*/
+}
+
 .text{
 	text-align:center;
 }
