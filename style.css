@@ -654,6 +654,19 @@ section + section {
 	color: #fff;	/*文字色*/
 }
 	
+/*ボックス内のh4見出し*/
+.list h4 {
+	text-align: center;	/*文字をセンタリング*/
+	border-bottom: 2px dotted #fff;	/*下線の幅、線種、色*/
+	margin-bottom: 10px;	/*見出しの下に空けるスペース*/
+	font-size: 20px;		/*文字サイズ*/
+}
+/*ボックス内の段落タグ*/
+.list p {
+	padding: 0!important;
+	line-height: 1.5;	/*行間を少し狭くする*/
+}
+	
 
 
 
