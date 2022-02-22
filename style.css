@@ -621,7 +621,38 @@ section + section {
 	width: 20%;		/*幅*/
 }
 	
+
 	
+/*メニューページの設定（food.html）
+---------------------------------------------------------------------------*/
+/*各ボックスの設定*/
+.list {
+	position: relative;overflow: hidden;
+	float: left;	/*左に回り込み*/
+	width: 20%;		/*ボックスの幅*/
+	margin: 0 2.5% 20px;	/*上、左右、下へのボックス内の余白*/
+	height: 370px;			/*ボックスの高さ。*/
+}
+/*写真の設定*/
+.list figure img {
+	display: block;
+	border-radius: 50%;		/*円形にする設定。30pxなどにすると角丸になります。この行を削除すればそのままの画像が表示されます。*/
+	margin-bottom: 10px;	/*画像の下に空けるスペース*/
+}
+/*写真の右上にある金額*/
+.list figure span {
+	display: block;text-align: center;
+	width: 50px;	/*幅*/
+	line-height: 50px;	/*高さ*/
+	border-radius: 50%;	/*円形にする設定*/
+	font-size: 12px;	/*文字サイズ*/
+	background: #000;	/*背景色（古いブラウザ用）*/
+	background: rgba(0,0,0,0.7);	/*背景色。0,0,0は黒の事で0.7は70%色がついた状態の事。*/
+	position: absolute;
+	right: 0px;	/*listブロックに対して右から0pxの場所に配置*/
+	top: 5px;	/*listブロックに対して上から5pxの場所に配置*/
+	color: #fff;	/*文字色*/
+}
 	
 
 
