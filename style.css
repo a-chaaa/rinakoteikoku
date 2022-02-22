@@ -624,35 +624,7 @@ section + section {
 	
 	
 
-/*メニューページの設定（menu.html）
----------------------------------------------------------------------------*/
-/*各ボックスの設定*/
-.list {
-	float: none;
-	width: auto;
-	height: auto;
-	margin: 0;
-	margin-bottom: 20px;
-	overflow: hidden;
-}
-/*写真の設定*/
-.list figure img {
-	float: left;	/*左に回り込み*/
-	width: 30%;		/*写真の幅*/
-}
-/*写真の右上にある金額*/
-.list figure span {
-	width: 40px;	/*幅*/
-	line-height: 40px;	/*高さ*/
-	font-size: 10px;	/*文字サイズ*/
-	left: 0px;	/*listブロックに対して左から0pxの場所に配置*/
-	top: 0px;	/*listブロックに対して上から0pxの場所に配置*/
-}
-/*ボックス内のh4見出しと段落タグ*/
-.list h4, .list p {
-	text-align: left;	/*文字を左寄せ*/
-	margin-left: 35%;	/*左に空けるスペース。上の写真の幅をみて調整して下さい。*/
-}
+
 
 /*その他
 ---------------------------------------------------------------------------*/
