@@ -45,7 +45,7 @@ body {
 }
 
 nav{
-	line-height: 0;		/*行間*/
+	line-height: 1;		/*行間*/
 }
 
 .text{
