@@ -44,6 +44,9 @@ body {
 	/*letter-spacing:2px; 　　　　　/*左右の文字間隔*/
 }
 
+nav{
+	line-height: 0;		/*行間*/
+}
 
 .text{
 	text-align:center;
