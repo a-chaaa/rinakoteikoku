@@ -648,7 +648,7 @@ section + section {
 	height: 370px;			/*ボックスの高さ。*/
 }
 /*写真の設定*/
-.list figur img {
+.lis figure img {
 	display: block;
 	border-radius: 50%;		/*円形にする設定。30pxなどにすると角丸になります。この行を削除すればそのままの画像が表示されます。*/
 	margin-bottom: 10px;	/*画像の下に空けるスペース*/
