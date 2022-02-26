@@ -640,7 +640,7 @@ section + section {
 /*メニューページの設定（food.html）
 ---------------------------------------------------------------------------*/
 /*各ボックスの設定*/
-.lis {
+.list {
 	position: relative;overflow: hidden;
 	float: left;	/*左に回り込み*/
 	width: 20%;		/*ボックスの幅*/
@@ -648,13 +648,13 @@ section + section {
 	height: 370px;			/*ボックスの高さ。*/
 }
 /*写真の設定*/
-.lis figure img {
+.list figure img {
 	display: block;
 	border-radius: 50%;		/*円形にする設定。30pxなどにすると角丸になります。この行を削除すればそのままの画像が表示されます。*/
 	margin-bottom: 10px;	/*画像の下に空けるスペース*/
 }
 /*写真の右上にある金額*/
-.lis figure span {
+.list figure span {
 	display: block;text-align: center;
 	width: 50px;	/*幅*/
 	line-height: 50px;	/*高さ*/
@@ -669,14 +669,14 @@ section + section {
 }
 	
 /*ボックス内のh4見出し*/
-.lis h4 {
+.list h4 {
 	text-align: center;	/*文字をセンタリング*/
 	border-bottom: 2px dotted #fff;	/*下線の幅、線種、色*/
 	margin-bottom: 10px;	/*見出しの下に空けるスペース*/
 	font-size: 20px;		/*文字サイズ*/
 }
 /*ボックス内の段落タグ*/
-.lis p {
+.list p {
 	padding: 0!important;
 	line-height: 1.5;	/*行間を少し狭くする*/
 }
