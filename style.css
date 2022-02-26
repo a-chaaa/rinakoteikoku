@@ -27,11 +27,6 @@ h2{
 	font-size:20px;
 }
 
-/*背景色を変える　　TOPのやつ
----------------------------------------------------------------------------*/
-.explain{
-	margin:0;
-}
 
 /*全体の設定
 ---------------------------------------------------------------------------*/
@@ -60,9 +55,9 @@ h4,
 
 .explain{
 	background-color:#fff3de;
+	background-size:contain;
 	width:100%;
 	color:#b36d4d;
-	margin:0;
 	padding-top:5px;
 	padding-bottom:5px;
 }
