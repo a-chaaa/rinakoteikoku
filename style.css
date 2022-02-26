@@ -41,6 +41,7 @@ body {
 	background: #6a171f;	/*背景色*/
 	color: #E5E5E5;	/*全体の文字色*/
 	line-height: 2.5;		/*行間*/
+	margin:0;
 	/*letter-spacing:2px; 　　　　　/*左右の文字間隔*/
 }
 
@@ -58,7 +59,6 @@ h4,
 	background-size:contain;
 	width:100%;
 	color:#b36d4d;
-	margin:0;
 	padding-top:5px;
 	padding-bottom:5px;
 }
