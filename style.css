@@ -661,8 +661,6 @@ section + section {
 /*各ボックスの設定*/
 .list {
 	position: relative;overflow: hidden;
-	display:flex;
-	jastify-content:center;
 	float: left;	/*左に回り込み*/
 	width: 20%;		/*ボックスの幅*/
 	margin: 0 2.5% 20px;	/*上、左右、下へのボックス内の余白*/
