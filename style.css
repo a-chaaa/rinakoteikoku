@@ -676,6 +676,7 @@ section + section {
 .list figure span {
 	display: block;text-align: center;
 	width: 50px;	/*幅*/
+	jastify-content:center;
 	line-height: 50px;	/*高さ*/
 	border-radius: 50%;	/*円形にする設定*/
 	font-size: 12px;	/*文字サイズ*/
