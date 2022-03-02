@@ -674,7 +674,7 @@ section + section {
 .crs{
 	position: relative;overflow: hidden;
 	float: left;	/*左に回り込み*/
-	width: 20%;		/*ボックスの幅*/
+	width: 5%;		/*ボックスの幅*/
 	margin: 0 10% 20px;	/*上、左右、下へのボックス内の余白*/
 	height: 370px;			/*ボックスの高さ。*/
 }
