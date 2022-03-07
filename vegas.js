@@ -1,7 +1,7 @@
 setTimeout(function () {
     $('#mainimg').vegas({
         slides: [
-            { src: 'https://a-chaaa.github.io/rinakoteikoku/1.jpg' },	//1枚目の写真指定
+            { src: 'https://a-chaaa.github.io/rinakoteikoku/ひょーし.png' },	//1枚目の写真指定
             { src: 'https://a-chaaa.github.io/rinakoteikoku/36.png' },	//2枚目の写真指定
             { src: 'https://a-chaaa.github.io/rinakoteikoku/37.png' },	//3枚目の写真指定
 	    { src: 'https://a-chaaa.github.io/rinakoteikoku/ななな.png' },
