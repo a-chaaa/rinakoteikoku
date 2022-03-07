@@ -318,6 +318,7 @@ ul.icon img:hover {
 
 /*ボックス内の画像*/
 .pickup .list img {
+	height:200px;
 	object-fit: cover;	/*トリミングのタイプ*/
 	height: 100%;		/*画像の幅　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ここ変えたあああああああああああああああああああああああああああああああああああああああ*/
 	font-family: 'object-fit: cover;';	/*IE対策*/
