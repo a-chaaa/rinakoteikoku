@@ -4,6 +4,7 @@ setTimeout(function () {
             { src: 'https://a-chaaa.github.io/rinakoteikoku/1.jpg' },	//1枚目の写真指定
             { src: 'https://a-chaaa.github.io/rinakoteikoku/36.png' },	//2枚目の写真指定
             { src: 'https://a-chaaa.github.io/rinakoteikoku/37.png' },	//3枚目の写真指定
+	    { src: 'https://a-chaaa.github.io/rinakoteikoku/ななな.png' },
         ],
 		/*overlay: true,*/			//写真上にドットを重ねる。不要ならこの１行を削除して下さい。
 		transition: 'fade',		//https://vegas.jaysalvat.com/documentation/transitions/から好みのtransitionを選んで置き換えられます。
